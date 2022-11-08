@@ -1,0 +1,9 @@
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\bin\Debug\ecuatie.exe.config
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\bin\Debug\ecuatie.exe
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\bin\Debug\ecuatie.pdb
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\obj\Debug\ecuatie.csprojAssemblyReference.cache
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\obj\Debug\ecuatie.Form1.resources
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\obj\Debug\ecuatie.Properties.Resources.resources
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\obj\Debug\ecuatie.csproj.GenerateResource.cache
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\obj\Debug\ecuatie.exe
+C:\Users\Ionut\source\repos\ecuatie\ecuatie\obj\Debug\ecuatie.pdb
